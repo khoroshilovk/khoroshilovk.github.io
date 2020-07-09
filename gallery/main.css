@@ -1,0 +1,28 @@
+div{
+	height:100px;
+	width:100px;
+	margin:5px;
+	border: 15px solid black;
+}
+.h{
+	background-color: red ;
+} 
+.j{
+	background-color: green; 
+}
+.jj{
+	background-color: blue;
+}
+
+.h:hover{
+	background-color:rgb(178, 34, 34);
+}
+.j:hover{
+	background-color:rgb(107, 142, 35);
+}
+.jj:hover{
+	background-color:rgb(95, 158, 160);
+	}
+div:hover{
+	border-radius: 30px;
+}
